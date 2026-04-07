@@ -14,6 +14,9 @@ This project is a Python-based command-line calculator that performs basic arith
 
 # Technologies Used
 - Python (No external libraries required)
+  
+# Author
+Sreenivasulu Reddy
 
 # How to Run
 1. Make sure Python is installed on your system.
@@ -23,5 +26,5 @@ This project is a Python-based command-line calculator that performs basic arith
 
 ```bash
 python calculator.py
-# Author
-Sreenivasulu Reddy
+
+
